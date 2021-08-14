@@ -1,0 +1,12 @@
+Test 1 (time in ms):
+For => 16
+ForEach => 15
+Iterator => 20
+ArrayList ForEach => 21
+
+Test 2 (time in ms):
+For => 14
+ForEach => 15
+Iterator => 20
+ArrayList ForEach => 21
+
