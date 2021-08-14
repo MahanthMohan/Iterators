@@ -9,4 +9,3 @@ For => 14
 ForEach => 15
 Iterator => 20
 ArrayList ForEach => 21
-
